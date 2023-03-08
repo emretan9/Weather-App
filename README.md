@@ -1,5 +1,5 @@
 # Weather App
->Program that written using Python shows weather informations including wind, humidity, pressure and short description of weather condition.This program is using openWeather API.Also, program includes tkinter, geopy, timezonefinder, datetime, requests and pytz libraries.
+>Program that written using Python shows weather informations including wind, humidity, pressure and short description of weather condition.This program is using openWeatherMap API.Also, program includes tkinter, geopy, timezonefinder, datetime, requests and pytz libraries.
 
 
 # Photos
